@@ -17,7 +17,7 @@ const MainLayout = ({ children }: MainLayoutProps) => {
           {children}
         </main>
         <footer className="py-4 px-6 text-center text-sm text-muted-foreground border-t">
-          © {new Date().getFullYear()} Asuransi Kontak Helper. Hak Cipta Dilindungi.
+          © {new Date().getFullYear()} PruKontak Helper. Hak Cipta Dilindungi.
         </footer>
       </div>
     </div>

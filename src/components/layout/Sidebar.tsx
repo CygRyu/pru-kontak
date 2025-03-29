@@ -37,7 +37,7 @@ const Sidebar = () => {
           <span className="p-1 bg-white rounded-md">
             <Phone className="h-6 w-6 text-insurance-500" />
           </span>
-          <h1 className="text-white font-bold text-xl">AsuKontak</h1>
+          <h1 className="text-white font-bold text-xl">PruKontak</h1>
         </Link>
       </div>
 
